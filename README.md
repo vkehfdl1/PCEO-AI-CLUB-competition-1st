@@ -7,4 +7,4 @@ This is repo about 1st PCEO AI CLUB competition that I hosted. Competition was h
 - Data : All data used in this competition. Include solution files. 
 - Code : All codes that members shared at this compeition. 
 - Docs : Korean Explanation about this competition. 
-- Leaderboard : Final leaderboard of this competition. 
+- Submission : All submissions of this competition. 
